@@ -25,7 +25,7 @@
 - **[My Markup Language Classes Repository - DiegoPastrana3D/MarkupLanguageClasses](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
 - **[My Hardware Classes Repository - DiegoPastrana3D/HardwareClasses](https://github.com/DiegoPastrana3D/HardwareClasses)**
 
-<img align="right" width=400px height=250px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
+<img align="right" width=300px height=180px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
 
 ### The programs that I use:
 

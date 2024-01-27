@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/DiegoPastrana3D)
 
 
-<img align="right" width=500px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
+<img align="right" width=350px height=200px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48D93C&random=false&width=485&height=58&lines=Network+Computer+Systems+Administration)](https://git.io/typing-svg)

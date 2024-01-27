@@ -1,10 +1,8 @@
 # Greetings, I´m Diego :)
 
-
 ![](https://komarev.com/ghpvc/?username=DiegoPastrana3D)
 
 ![GitHub followers](https://img.shields.io/github/followers/DiegoPastrana3D)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48D93C&random=false&width=485&height=58&lines=Network+Computer+Systems+Administration)](https://git.io/typing-svg)
 
@@ -16,7 +14,7 @@
 
 **🪛I enjoy repairing and assembling PCs, which is a hobby that I usually practice by helping friends and acquaintances.**
 
-<img align="right" width=500px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
+<img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
 
 ### Some of my repositories (not forks):
 
@@ -27,8 +25,7 @@
 - **[My Markup Language Classes Repository - DiegoPastrana3D/MarkupLanguageClasses](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
 - **[My Hardware Classes Repository - DiegoPastrana3D/HardwareClasses](https://github.com/DiegoPastrana3D/HardwareClasses)**
 
-<img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
-
+<img align="right" width=500px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
 
 ### The programs that I use:
 

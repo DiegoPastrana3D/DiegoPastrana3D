@@ -14,7 +14,7 @@
 
 **🪛I enjoy repairing and assembling PCs, which is a hobby that I usually practice by helping friends and acquaintances.**
 
-<img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
+<img align="right" width=500px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
 
 ### Some of my repositories (not forks):
 
@@ -25,7 +25,7 @@
 - **[My Markup Language Classes Repository](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
 - **[My Hardware Classes Repository](https://github.com/DiegoPastrana3D/HardwareClasses)**
 
-<img align="right" width=300px height=180px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
+<img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
 
 ### The programs that I use:
 

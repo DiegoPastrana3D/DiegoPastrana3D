@@ -18,12 +18,12 @@
 
 ### Some of my repositories (not forks):
 
-- **[My 3D Models Repository - DiegoPastrana3D/3DModels/releases](https://github.com/DiegoPastrana3D/3DModels/releases)**
-- **[My Render Repository - DiegoPastrana3D/Renders/releases](https://github.com/DiegoPastrana3D/Renders/releases)**
-- **[My Introduction to Packet Tracer reports Repository - DiegoPastrana3D/IntroductionToPacketTracerReports](https://github.com/DiegoPastrana3D/IntroductionToPacketTracerReports)**
-- **[My Operating System Deployment Repository - DiegoPastrana3D/OperatingSystemDeploymentClasses](https://github.com/DiegoPastrana3D/OperatingSystemDeploymentClasses)**
-- **[My Markup Language Classes Repository - DiegoPastrana3D/MarkupLanguageClasses](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
-- **[My Hardware Classes Repository - DiegoPastrana3D/HardwareClasses](https://github.com/DiegoPastrana3D/HardwareClasses)**
+- **[My 3D Models Repository](https://github.com/DiegoPastrana3D/3DModels/releases)**
+- **[My Render Repository](https://github.com/DiegoPastrana3D/Renders/releases)**
+- **[My Introduction to Packet Tracer reports Repository](https://github.com/DiegoPastrana3D/IntroductionToPacketTracerReports)**
+- **[My Operating System Deployment Repository](https://github.com/DiegoPastrana3D/OperatingSystemDeploymentClasses)**
+- **[My Markup Language Classes Repository](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
+- **[My Hardware Classes Repository](https://github.com/DiegoPastrana3D/HardwareClasses)**
 
 <img align="right" width=300px height=180px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
 
@@ -45,6 +45,10 @@
 ![](https://img.shields.io/badge/MYSQL-1F3438?style=for-the-badge)
 ![](https://img.shields.io/badge/JAVA-red?style=for-the-badge)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge)
+
+Certification:
+
+<img width=90px height=90px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/ba89de70-2546-477c-83ba-8cdb3aee8c97" />
 
 ### My social networks:
 

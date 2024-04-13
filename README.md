@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/ORCASLICER-B6B6B6?style=for-the-badge)
 ![](https://img.shields.io/badge/GIMP-404040?style=for-the-badge)
 ![](https://img.shields.io/badge/DAVINCI_RESOLVE-14223F?style=for-the-badge)
+![](https://img.shields.io/badge/LINUX_TERMINAL-763232?style=for-the-badge)
 
 
 ### The languages that I use:

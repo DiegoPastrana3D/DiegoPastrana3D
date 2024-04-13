@@ -29,7 +29,7 @@
 
 <img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
 
-### The programs that I use:
+### The programs/tools that I use:
 
 ![](https://img.shields.io/badge/PACKET_TRACER-E3B339?style=for-the-badge)
 ![](https://img.shields.io/badge/VISUAL_STUDIO_CODE-0000FF?style=for-the-badge)
@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/GIMP-404040?style=for-the-badge)
 ![](https://img.shields.io/badge/DAVINCI_RESOLVE-14223F?style=for-the-badge)
 ![](https://img.shields.io/badge/LINUX_TERMINAL-763232?style=for-the-badge)
+![](https://img.shields.io/badge/AI_TOOLS-66668E?style=for-the-badge)
 
 
 ### The languages that I use:
@@ -55,7 +56,12 @@
 
 Certification:
 
-<img width=90px height=90px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/ba89de70-2546-477c-83ba-8cdb3aee8c97" />
+<img width=260px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/6fe5388f-4f68-42c3-81ef-eab4ce6a0807"/>
+<img width=280px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/0a46de22-d3f5-42ac-a392-29ce577f3690"/>
+<img width=290px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/382b9ae6-b991-4398-a5ef-9a4a3ffeee19"/>
+<img width=220px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/bd6ce371-e162-496c-8d9d-663d3964e981"/>
+<img width=450px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/60303c98-56f7-4b7f-91e7-e5e38e64ffe8"/>
+<img width=530px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/bae4d35b-d55f-4eb4-b153-0cdd0a126f01"/>
 
 ### My social networks:
 

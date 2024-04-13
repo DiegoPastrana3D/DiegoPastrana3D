@@ -25,6 +25,7 @@
 - **[My Markup Language Classes Repository](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
 - **[My Hardware Classes Repository](https://github.com/DiegoPastrana3D/HardwareClasses)**
 - **[My Database Classes Repository](https://github.com/DiegoPastrana3D/DatabaseManagementClasses)**
+- **[My Network Planning And Administration Classes Repository](https://github.com/DiegoPastrana3D/NetworkPlanningAndAdministrationClasses)**
 
 <img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
 

@@ -54,7 +54,7 @@
 ![](https://img.shields.io/badge/BOOTSTRAP-6501FA?style=for-the-badge)
 ![](https://img.shields.io/badge/TAILWIND-A8BFFF?style=for-the-badge)
 
-Certification:
+Certifications:
 
 <img width=270px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/6fe5388f-4f68-42c3-81ef-eab4ce6a0807"/>
 <img width=280px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/0a46de22-d3f5-42ac-a392-29ce577f3690"/>

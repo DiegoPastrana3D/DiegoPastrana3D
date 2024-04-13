@@ -56,7 +56,7 @@
 
 Certification:
 
-<img width=260px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/6fe5388f-4f68-42c3-81ef-eab4ce6a0807"/>
+<img width=270px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/6fe5388f-4f68-42c3-81ef-eab4ce6a0807"/>
 <img width=280px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/0a46de22-d3f5-42ac-a392-29ce577f3690"/>
 <img width=290px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/382b9ae6-b991-4398-a5ef-9a4a3ffeee19"/>
 <img width=220px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/bd6ce371-e162-496c-8d9d-663d3964e981"/>

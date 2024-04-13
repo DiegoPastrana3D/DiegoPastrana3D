@@ -40,13 +40,17 @@
 ![](https://img.shields.io/badge/GIMP-404040?style=for-the-badge)
 ![](https://img.shields.io/badge/DAVINCI_RESOLVE-14223F?style=for-the-badge)
 
+
 ### The languages that I use:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
 ![](https://img.shields.io/badge/MYSQL-1F3438?style=for-the-badge)
 ![](https://img.shields.io/badge/JAVA-red?style=for-the-badge)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge)
+![](https://img.shields.io/badge/MaRKDOWN-000000?style=for-the-badge)
+![](https://img.shields.io/badge/JAVASCRIPT-E1FA01?style=for-the-badge)
+![](https://img.shields.io/badge/BOOTSTRAP-6501FA?style=for-the-badge)
+![](https://img.shields.io/badge/TAILWIND-A8BFFF?style=for-the-badge)
 
 Certification:
 

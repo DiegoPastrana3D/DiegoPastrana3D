@@ -56,14 +56,6 @@
 ![](https://img.shields.io/badge/BOOTSTRAP-6501FA?style=for-the-badge)
 ![](https://img.shields.io/badge/TAILWIND-A8BFFF?style=for-the-badge)
 
-Certifications:
-
-<img width=270px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/6fe5388f-4f68-42c3-81ef-eab4ce6a0807"/>
-<img width=280px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/0a46de22-d3f5-42ac-a392-29ce577f3690"/>
-<img width=290px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/382b9ae6-b991-4398-a5ef-9a4a3ffeee19"/>
-<img width=220px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/bd6ce371-e162-496c-8d9d-663d3964e981"/>
-<img width=450px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/60303c98-56f7-4b7f-91e7-e5e38e64ffe8"/>
-<img width=600px height=60px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/bae4d35b-d55f-4eb4-b153-0cdd0a126f01"/>
 
 ### My social networks:
 
